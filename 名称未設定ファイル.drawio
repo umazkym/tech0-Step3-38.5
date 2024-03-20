@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T13:42:29.302Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="r3hzRJ3U7UfhS4_OWTFG" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-20T13:47:32.210Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="e60e9a4O0wsWOL6CkKGR" version="24.0.7" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="2074" dy="1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="C-vyLk0tnHw3VtMMgP7b-2" value="居住地マスタ" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="560" width="250" height="90" as="geometry" />
+          <mxGeometry x="440" y="520" width="250" height="90" as="geometry" />
         </mxCell>
         <mxCell id="C-vyLk0tnHw3VtMMgP7b-6" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="C-vyLk0tnHw3VtMMgP7b-2" vertex="1">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -34,7 +34,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="C-vyLk0tnHw3VtMMgP7b-13" value="職業マスタ" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="680" width="250" height="90" as="geometry" />
+          <mxGeometry x="440" y="640" width="250" height="90" as="geometry" />
         </mxCell>
         <mxCell id="7nw3ZeE5RMcHWVZsN57C-98" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="C-vyLk0tnHw3VtMMgP7b-13">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -224,7 +224,7 @@
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7nw3ZeE5RMcHWVZsN57C-107" value="チャットスペーステーブル" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+        <mxCell id="7nw3ZeE5RMcHWVZsN57C-107" value="チャットスペースマスタ" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="400" width="250" height="150" as="geometry" />
         </mxCell>
         <mxCell id="7nw3ZeE5RMcHWVZsN57C-108" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="7nw3ZeE5RMcHWVZsN57C-107">
@@ -279,8 +279,8 @@
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7nw3ZeE5RMcHWVZsN57C-117" value="興味・価値観テーブル" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="800" width="250" height="240" as="geometry" />
+        <mxCell id="7nw3ZeE5RMcHWVZsN57C-117" value="興味・価値観マスタ" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="760" width="250" height="240" as="geometry" />
         </mxCell>
         <mxCell id="7nw3ZeE5RMcHWVZsN57C-165" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="7nw3ZeE5RMcHWVZsN57C-117">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -373,7 +373,7 @@
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7nw3ZeE5RMcHWVZsN57C-174" value="チームテーブル" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+        <mxCell id="7nw3ZeE5RMcHWVZsN57C-174" value="チーム用チャットスペース" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="240" width="250" height="90" as="geometry" />
         </mxCell>
         <mxCell id="7nw3ZeE5RMcHWVZsN57C-175" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="7nw3ZeE5RMcHWVZsN57C-174">
@@ -426,7 +426,7 @@
             <mxPoint x="240" y="573" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7nw3ZeE5RMcHWVZsN57C-231" value="職業マスタ" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+        <mxCell id="7nw3ZeE5RMcHWVZsN57C-231" value="所属チーム" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="240" width="250" height="120" as="geometry" />
         </mxCell>
         <mxCell id="7nw3ZeE5RMcHWVZsN57C-232" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="7nw3ZeE5RMcHWVZsN57C-231">
@@ -509,7 +509,7 @@
             <mxPoint x="779.5" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7nw3ZeE5RMcHWVZsN57C-277" value="職業マスタ" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+        <mxCell id="7nw3ZeE5RMcHWVZsN57C-277" value="所属チャットスペース" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="400" width="250" height="90" as="geometry" />
         </mxCell>
         <mxCell id="7nw3ZeE5RMcHWVZsN57C-278" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="7nw3ZeE5RMcHWVZsN57C-277">
